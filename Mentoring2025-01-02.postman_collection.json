@@ -1,0 +1,24 @@
+{
+	"info": {
+		"_postman_id": "c75ed5c3-7db5-4edd-951c-2fb324576da5",
+		"name": "Mentoring2025-01-02",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "36962815",
+		"_collection_link": "https://warped-station-545054-5498.postman.co/workspace/%25ED%2588%25AC%25EB%2591%2590%25EB%25A6%25AC%25EC%258A%25A4%25ED%258A%25B8-Workspace~da1caaa3-5ea5-4320-a141-0a710b7472ce/collection/36962815-c75ed5c3-7db5-4edd-951c-2fb324576da5?action=share&source=collection_link&creator=36962815"
+	},
+	"item": [
+		{
+			"name": "CORS",
+			"item": [
+				{
+					"name": "New Request",
+					"request": {
+						"method": "GET",
+						"header": []
+					},
+					"response": []
+				}
+			]
+		}
+	]
+}
